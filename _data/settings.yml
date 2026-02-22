@@ -1,7 +1,7 @@
 menu:
-- {name: 'about me', url: '/index'}
+- {name: 'about', url: '/index'}
 - {name: 'courses', url: '/courses'}
-- {name: 'curriculum vitae', url: '/cv'}
+- {name: 'cv', url: '/cv'}
 - {name: 'publications', url: '/publications'}
 
 social:
