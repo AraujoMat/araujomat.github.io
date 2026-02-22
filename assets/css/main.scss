@@ -1,12 +1,24 @@
-/* Remove underline from social icons */
+/* =============================
+   Social / Academic Icons Style
+   ============================= */
+
+/* Target all links inside the social icons container */
 .social-icons a {
-  text-decoration: none; /* removes underline */
-  color: inherit;        /* keeps icon color */
-  margin-right: 0.5rem;  /* optional spacing */
-  font-size: 1.5rem;     /* optional size */
+  text-decoration: none;   /* removes underline */
+  color: inherit;          /* keeps icon color */
+  margin-right: 0.5rem;    /* spacing between icons */
+  font-size: 1.5rem;       /* size of icons */
+  display: inline-block;    /* ensures spacing works consistently */
+  transition: color 0.3s;   /* smooth hover effect */
 }
 
+/* Hover effect for icons */
 .social-icons a:hover {
-  text-decoration: none;
-  color: #0077b5; /* optional hover color */
+  text-decoration: none;   /* ensure underline never appears */
+  color: #0077b5;          /* change to your preferred hover color */
+}
+
+/* Optional: adjust spacing for last icon */
+.social-icons a:last-child {
+  margin-right: 0;
 }
