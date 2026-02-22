@@ -11,4 +11,4 @@ I am currently a PhD candidate at the Universidade Federal de Goiás (Brazil), u
 
 I am open to postdoctoral opportunities starting in early 2027.
 
-Contact email: #####matheusaraujolima@live.com
+Contact email: **matheusaraujolima@live.com**
