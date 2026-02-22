@@ -2,3 +2,15 @@
 ---
 
 @import "main";
+
+/* Remove underline from social icons */
+.social-icons a {
+  text-decoration: none; /* removes underline */
+  color: inherit;        /* keeps the icon color */
+}
+
+/* Optional: hover effect without underline */
+.social-icons a:hover {
+  text-decoration: none;
+  color: #0077b5; /* change hover color if you want */
+}
