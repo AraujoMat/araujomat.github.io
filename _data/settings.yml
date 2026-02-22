@@ -1,8 +1,9 @@
 menu:
-- {name: 'About me', url: '/index'}
-- {name: 'Publications', url: '/publications'}
-- {name: 'Courses', url: '/courses'}
-- {name: 'CV', url: '/cv'}
+- {name: 'about me', url: '/index'}
+- {name: 'courses', url: '/courses'}
+- {name: 'curriculum vitae', url: '/cv'}
+- {name: 'publications', url: '/publications'}
 
 social:
 - {icon: 'github', link: 'https://github.com/AraujoMat'}
+- {icon: 'researchgate', link: 'https://www.researchgate.net/profile/Matheus-De-Araujo-4?ev=hdr_xprf'}
