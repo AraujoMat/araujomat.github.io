@@ -5,7 +5,7 @@ menu:
 - {name: 'publications', url: '/publications'}
 
 social:
-- {icon: 'googlescholar', link: 'https://scholar.google.com.br/citations?user=lx_buUAAAAAJ&hl=pt-BR&oi=ao'}
+- {icon: 'google-scholar', link: 'https://scholar.google.com.br/citations?user=lx_buUAAAAAJ&hl=pt-BR&oi=ao'}
 - {icon: 'github', link: 'https://github.com/AraujoMat'}
 - {icon: 'lattes', link: 'http://lattes.cnpq.br/6656236239929064'}
 - {icon: 'researchgate', link: 'https://www.researchgate.net/profile/Matheus-De-Araujo-4?ev=hdr_xprf'}
