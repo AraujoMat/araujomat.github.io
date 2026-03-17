@@ -1,6 +1,6 @@
 menu:
 - {name: 'about', url: '/index'}
-- {name: 'courses', url: '/courses'}
+- {name: 'research', url: '/courses'}
 - {name: 'cv', url: '/cv'}
 - {name: 'publications', url: '/publications'}
 
