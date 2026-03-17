@@ -6,7 +6,7 @@ title: "Research"
 ### 1. Uncertainty in biodiversity data
 My research in this area develops methods to quantify uncertainty in biodiversity data (or its shortfalls), evaluate their general patterns, and identify the main factors influencing them. Rather than focusing on specific taxa, I address general questions and challenges that can be widely applied across the field, spanning different levels of biological organization and allowing replication by the broader scientific community. I believe my main contributions have been: (i) providing tools that allow users to estimate how reliable species range or niche estimates are given the currently available information (***Araujo et al., under review***); (ii) incorporating missing species information into molecular phylogenies to enable evolutionary analyses (***Araujo et al., in prep***); (iii) demonstrating how combining different biodiversity databases can improve our knowledge of species ([Araujo et al., 2022](https://doi.org/10.1007/s10531-022-02458-x); ***supervisioned Ibiapina et al., under review***); and (iv) showing how our biological knowledge is biased by socioeconomic factors ([Araujo & Ramos, 2021](https://doi.org/10.1016/j.foreco.2021.119544)).
 
-![Figure description](assets/img/Unc_framework.png)
+<img src="assets/img/Unc_framework.png" width="400">
 Figure 1: This figure illustrates the framework used to estimate uncertainty from (A) species occurrence records when mapping (B) geographical ranges and (C) environmental niches.
 
 ### 2. Biodiversity patterns in macroecology
