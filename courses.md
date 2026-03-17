@@ -17,5 +17,6 @@ Figure 2: Functions available in the R package [treesliceR](https://araujomat.gi
 
 ### 3. Macroecology in environmental space
 During my PhD, alongside my continuous interest in uncertainty, I had the opportunity to be part of a research group reinvestigating biodiversity patterns within an environmental space framework (see [Graham et al., 2025](https://doi.org/10.1111/ele.70008) and [Coelho et al., 2025](https://doi.org/10.1126/science.adu2590)). Currently, I'm leading two manuscripts that investigate body size patterns and niche conservatism for tetrapods in environmental space, both ***in preparation***.
+
 ![Figure description](assets/img/Env_framework.png)
 Figure 3: Hutchison's duallity between geographical and environmental space to obtain body size patterns. More details on the framework can be found [here](https://doi.org/10.1111/ele.70008).
