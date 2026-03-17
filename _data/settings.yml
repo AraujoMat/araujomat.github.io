@@ -3,6 +3,7 @@ menu:
 - {name: 'research', url: '/courses'}
 - {name: 'cv', url: '/cv'}
 - {name: 'publications', url: '/publications'}
+- {name: 'contact', url: '/contact'}
 
 social:
 - {icon: 'google-scholar', link: 'https://scholar.google.com.br/citations?user=lx_buUAAAAAJ&hl=pt-BR&oi=ao'}
