@@ -2,7 +2,6 @@
 layout: publications
 title: "Publications"
 ---
-
 ### 2025
 **12.** Nakamura, G., Stabile, B. H. M., Frateles, L. E. F., **Araujo, M. L.**, Neuhaus, E. B., Marinho, M. M. F., De Souza Leite, M., Richter, A., Ding, L., Da Silva Freitas, T. M., Soares, B., Da Graça, W. J., Moura, M. R., & Diniz-Filho, J. a. F. (2025). The hidden biodiversity knowledge split in biological collections. Proceedings of the Royal Society B Biological Sciences, 292(2058), 20251045. [https://doi.org/10.1098/rspb.2025.1045](https://doi.org/10.1098/rspb.2025.1045)
 
