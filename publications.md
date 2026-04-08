@@ -32,7 +32,6 @@ title: "Publications"
 **1.** **Araujo, M. L.**, & Ramos, F. N. (2021). Targeting the survey efforts: Gaps and biases in epiphyte sampling at a biodiversity hotspot. Forest Ecology and Management, 498, 119544. [https://doi.org/10.1016/j.foreco.2021.119544](https://doi.org/10.1016/j.foreco.2021.119544) 
 
 <br>
----
 <br>
 
 ### Manuscripts under peer review
