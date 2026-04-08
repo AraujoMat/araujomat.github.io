@@ -31,6 +31,7 @@ title: "Publications"
 ### 2021
 **1.** **Araujo, M. L.**, & Ramos, F. N. (2021). Targeting the survey efforts: Gaps and biases in epiphyte sampling at a biodiversity hotspot. Forest Ecology and Management, 498, 119544. [https://doi.org/10.1016/j.foreco.2021.119544](https://doi.org/10.1016/j.foreco.2021.119544)
 
+
 ### Manuscripts under peer review
 **1.** Elias, M. A. M., **Araujo, M. L.**, Gawryszewski, F. M., Stevens, M., Lemes, P., & Maciel, N. M. Beyond warning colours: Climate change is the dominant force shaping poison frog distribution. *Under review*.
 
