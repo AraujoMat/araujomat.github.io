@@ -30,3 +30,15 @@ title: "Publications"
 
 ### 2021
 **1.** **Araujo, M. L.**, & Ramos, F. N. (2021). Targeting the survey efforts: Gaps and biases in epiphyte sampling at a biodiversity hotspot. Forest Ecology and Management, 498, 119544. [https://doi.org/10.1016/j.foreco.2021.119544](https://doi.org/10.1016/j.foreco.2021.119544)
+
+### Manuscripts under peer review
+**1.** Elias, M. A. M., **Araujo, M. L.**, Gawryszewski, F. M., Stevens, M., Lemes, P., & Maciel, N. M. Beyond warning colours: Climate change is the dominant force shaping poison frog distribution. *Under review*.
+
+**2. Araujo, M. L.**, Diniz-Filho, J. A. F., & Rangel, T. F. Global patterns of speciation rates are governed by ecological limits and niche use dynamics. *Under review*. 
+
+**3.** Pereira, F. W., **Araujo, M. L.**, Lepeco, A., Marques, B. F., Bampi, H., Jardim, L., Vareira, L., Carvalheiro, L., Rangel, T. F., & Diniz Filho, J. A. F. The missing branches of the bee Tree of Life: addressing global Darwinian shortfalls and their drivers. *Under review*.
+
+**4. Araujo, M. L.**, Diniz-Filho, J. A. F., Pereira, F. W., Ramos, F. N., Coelho, M. T. P., Graham, C. H., & Rangel, T. F. Species-rich tropical regions show high uncertainty in geographical range and environmental niche estimates. *Under review*.
+
+**5.** Ibiapina, B. N., Vareira, L., Bampi, H., Rangel, T. F., & **Araujo, M. L.** Distribution mismatches and hidden sampling dynamics: Insights from the tiger-shark (Galeocerdo cuvier). *Under review*.
+
