@@ -34,13 +34,13 @@ title: "Publications"
 <br>
 
 ### Manuscripts under peer review
-**1.** Elias, M. A. M., **Araujo, M. L.**, Gawryszewski, F. M., Stevens, M., Lemes, P., & Maciel, N. M. Beyond warning colours: Climate change is the dominant force shaping poison frog distribution. *Under review*.
+**1.** Elias, M. A. M., **Araujo, M. L.**, Gawryszewski, F. M., Stevens, M., Lemes, P., & Maciel, N. M. Beyond warning colours: Climate change is the dominant force shaping poison frog distribution. *Under review* in Journal for Nature Conservation.
 
-**2. Araujo, M. L.**, Diniz-Filho, J. A. F., & Rangel, T. F. Global patterns of speciation rates are governed by ecological limits and niche use dynamics. *Under review*. 
+**2. Araujo, M. L.**, Diniz-Filho, J. A. F., & Rangel, T. F. Global patterns of speciation rates are governed by ecological limits and niche use dynamics. *Under review* in Ecography. 
 
-**3.** Pereira, F. W., **Araujo, M. L.**, Lepeco, A., Marques, B. F., Bampi, H., Jardim, L., Vareira, L., Carvalheiro, L., Rangel, T. F., & Diniz Filho, J. A. F. The missing branches of the bee Tree of Life: addressing global Darwinian shortfalls and their drivers. *Under review*.
+**3.** Pereira, F. W., **Araujo, M. L.**, Lepeco, A., Marques, B. F., Bampi, H., Jardim, L., Vareira, L., Carvalheiro, L., Rangel, T. F., & Diniz Filho, J. A. F. The missing branches of the bee Tree of Life: addressing global Darwinian shortfalls and their drivers. *Under review* in Journal of Biogeography.
 
-**4. Araujo, M. L.**, Diniz-Filho, J. A. F., Pereira, F. W., Ramos, F. N., Coelho, M. T. P., Graham, C. H., & Rangel, T. F. Species-rich tropical regions show high uncertainty in geographical range and environmental niche estimates. *Under review*.
+**4. Araujo, M. L.**, Diniz-Filho, J. A. F., Pereira, F. W., Ramos, F. N., Coelho, M. T. P., Graham, C. H., & Rangel, T. F. Species-rich tropical regions show high uncertainty in geographical range and environmental niche estimates. *Under review* in Proceedings of Royal Society B: Biological Sciences.
 
-**5.** Ibiapina, B. N., Vareira, L., Bampi, H., Rangel, T. F., & **Araujo, M. L.** Distribution mismatches and hidden sampling dynamics: Insights from the tiger-shark (Galeocerdo cuvier). *Under review*.
+**5.** Ibiapina, B. N., Vareira, L., Bampi, H., Rangel, T. F., & **Araujo, M. L.** Distribution mismatches and hidden sampling dynamics: Insights from the tiger-shark (Galeocerdo cuvier). *Under review* in Biological Conservation.
 
